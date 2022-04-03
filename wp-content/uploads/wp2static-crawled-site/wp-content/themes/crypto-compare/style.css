@@ -1,0 +1,19 @@
+#particles-js {background: #f2b321;}
+.main-slider .item {height: 780px;}
+.page-title-module:before {}
+.custom-shape-divider-bottom .shape-fill {fill: #18191b;}
+.custom-shape-divider-bottom-1645442050 {position: absolute;bottom: 0;left: 0;width: 100%;overflow: hidden;line-height: 0;transform: rotate(180deg);}
+.custom-shape-divider-bottom-1645442050 svg {position: relative;display: block;width: calc(186% + 1.3px);height: 138px;transform: rotateY(180deg);}
+.custom-shape-divider-bottom-1645442050 .shape-fill {fill: #fff;}
+.home-blog {background: #f2b321;}
+.shadow:hover {transform: translateY(-5px);}
+.footer {background-color: #f2b321;}
+.section-header {border-left: 4px solid #f2b321;}
+.overlap-enable {}
+.sticky-menu div.navigation-wrap {}
+.theme-light-grey {background: #f8f8f8;}
+.theme-light-white {background: #fff;}
+.footer {border-top: none !important;margin-top: 0;padding-top: 0;}
+.footer .border-box {padding-top: 230px;}
+.footer::before {content: "";top: 0;display: block;height: 185px;width: 100%;background: url("./assets/img/waves-footer.svg") bottom no-repeat;position: absolute;left: 0;right: 0;z-index: 1;background-size: cover;transform: rotate(0deg);}
+.entry-content a {color: #85661e !important;text-decoration: underline;}

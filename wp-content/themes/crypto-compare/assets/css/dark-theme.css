@@ -1,0 +1,74 @@
+body .theme-dark {color: #ababab;}
+.theme-dark {background: #18191b;}
+.theme-dark p {color: #ebeef2;}
+.excerpt, .excerpt p {color: #ababab;}
+.theme-dark h1, .theme-dark h2, .theme-dark h3, .theme-dark h4, .theme-dark h5, .theme-dark h6 {color: #ebeef2;}
+.theme-dark .blog-page {}
+.widget_search .search-submit:focus {background: #404040;border: 1px solid #f8f8f8;}
+blockquote cite, blockquote small {color: #888;}
+.widget a:hover, .widget a:focus {color: #f2b321;}
+.comments-area {background-color: #212121;}
+.comments-area .form-submit .submit {border: 2px solid #1d2327;}
+.comments-area .form-submit .submit:hover, .comments-area .form-submit .submit:focus {background-color: rgba(96,96,96,.72);border: 2px solid #f8f8f8;}
+.theme-dark .post .more-link {color: #ebeef2;}
+.theme-dark .post .more-link:focus, .theme-dark .post .more-link:hover {color: #faa615;}
+.page-breadcrumb > li a:hover, .page-breadcrumb > li a:focus, .page-breadcrumb > li.active {color: #686868;}
+.features-section .feature-icon i {color: #fff;}
+.features-section .features h4 {color: #ebeef2;}
+.features-section .feature:nth-child(1), .features-section .feature:nth-child(3) {background: #000;}
+.theme-dark .post {background: #202020;}
+.theme-dark .inner-header .inner-title > a {color: #ebeef2;}
+.theme-dark .inner-header .inner-title > a:focus, .theme-dark .inner-header .inner-title > a:hover {color: #faa615;}
+.theme-dark .post div p {}
+.theme-dark .post {}
+.theme-light .testimonial .section-title, .theme-light .testimonial .section-subtitle {color: #ebeef2;}
+.theme-dark .post .post-widget i {color: #f2b321;}
+.theme-dark .post .post-widget li a {color: #f2b321;}
+.theme-dark .post .post-widget li a:focus, .theme-dark .post .post-widget li a:hover {color: #ebeef2;}
+.theme-dark .post .post-widget li:after {color: #fff;}
+.post .post-widget li a {color: #f2b321;}
+.post .inner-header a {color: #f2b321;}
+.theme-dark .portfolio-box {}
+.theme-dark .portfolio-box .inner-title a {color: #ebeef2;}
+.theme-dark .portfolio-box p {color: #ebeef2;}
+.theme-dark #accordion-1 {background-color: #222324;}
+.theme-dark  #accordion-1 .content {background-color: #222324;}
+.theme-dark  #accordion-1 .head {background-color: #222324;}
+.theme-dark #accordion-1 .arrow {color: #e6edfd;}
+.theme-dark .road-map-tl-event li .event .content {background: #222324;}
+.theme-dark  .info-box {}
+.theme-dark .info-box h3 {color: #fff;}
+.theme-dark input[type=text] {background: #343542;border: 1px solid #32333f;}
+.theme-dark input[type=text]:focus {background: #fff;border: 1px solid #fff;}
+.tokensale .submit-address button:hover, .tokensale .submit-address button:focus {background-color: #44454c;}
+.theme-dark .docs_content p {color: #fff;}
+.theme-dark .member .member-info h4 {color: #fff;}
+.theme-dark .submit-address button {background-color: #18191b;color: #fff;}
+.theme-dark .post .post-category i {color: #f2b321;}
+.theme-dark .post .post-category li a {color: #f2b321;}
+.theme-dark .post .post-category li a:focus, .theme-dark .post .post-category li a:hover {color: #ebeef2;}
+.theme-dark .post .post-category li:after {color: #fff;}
+.theme-dark .post .post-body {background-color: #222324;}
+.theme-dark  .sidebar .widget {}
+.theme-dark  .widget li a {color: #ebeef2;}
+.theme-dark  .widget li a:focus, .theme-dark  .widget li a:hover {color: #f2b321;}
+.theme-dark .tagcloud a, .theme-dark .wp-block-tag-cloud a {background-color: rgba(13,14,16,.49);border: 1px solid #d1d1d1;color: #ced4da;cursor: pointer;display: inline-block;font-size: .875rem;margin: 0 5px 8px 0;padding: 4px 14px;transition: all .3s ease 0s;vertical-align: baseline;white-space: nowrap;border-radius: 1px;text-decoration: none;}
+.theme-dark .widget .tagcloud a:hover, .theme-dark .widget .tagcloud a:focus, .theme-dark .widget .wp-block-tag-cloud a:focus, .theme-dark .widget .wp-block-tag-cloud a:hover {color: #fff;background-color: #faa615;}
+.theme-dark .wp-block-calendar table th {background: #ededed;}
+.theme-dark .widget #wp-calendar tr td {color: #efefef;}
+.theme-dark .widget #wp-calendar caption {color: #efefef;}
+.theme-dark  .wp-block-calendar table th {background: #0a1823;}
+.theme-dark  .wp-calendar-nav-prev a {color: #fff;}
+.site-footer .widget_calendar table, .site-footer .widget #calendar_wrap th, .widget #wp-calendar caption, .footer ul li {color: #fff;}
+.theme-dark .product {background-color: #212121;}
+.theme-dark .product_meta {color: #e3e3e3;background: #18191b;padding: 10px;}
+.theme-dark .product_meta span a {color: #fff;}
+.theme-dark .product_meta span a:focus, .theme-dark .product_meta span a:hover {color: #fff;}
+.theme-dark .woocommerce-product-rating a {color: #fff;}
+.theme-dark .widget #calendar_wrap th {color: #fff;}
+.theme-dark button, .theme-dark input, .theme-dark select, .theme-dark textarea {color: #fff;}
+.theme-dark .footer {margin-top: 0px;}
+.theme-dark .member .member-img:after, .theme-dark .post-thumbnail:after {background: none;}
+.theme-dark .footer::before {content: "";top: 0px;display: block;height: 50px;width: 100%;background: url("../img/token/footer-dark-waves.svg") top no-repeat;position: absolute;bottom: 92px;left: 0;right: 0;z-index: 101;background-size: cover;transform: rotate(0deg);}
+.site-footer .widget .widget-title {color: #fff;}
+.site-footer .widget {background: #18191b;}
